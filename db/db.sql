@@ -1,4 +1,4 @@
-CREATE TABLE quarkus-social;
+CREATE TABLE quarkus-social-api;
 
 CREATE TABLE USERS (
 	id bigserial not null primary key,
